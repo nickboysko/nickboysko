@@ -16,17 +16,18 @@ What You’ll Find Here
 
 Personal Projects: A collection of my personal coding projects including web apps, scripts, and more.
 
-Academic Projects: Projects and assignments from my coursework that demonstrate my skills and learning.
-
 Highlights
 
 📚 Requisition Form: Web application developed to allow employees to request new items they are in need of and establish a chain of approvement
 
     -Java, Hibernate, SQl, Javascript, JQuery, HTML, Bootstrap, CSS, Git 
+💼 Personal Portfolio Website: Web Application that displays various personal information on myself
+
+    -JavaScript, HTML, CSS, and Git
 How to Reach Me
 
 📫 Email: boysko.1@buckeyelink.osu.edu
 
 🌐 LinkedIn: www.linkedin.com/in/nick-boysko
 
-💼 Portfolio: [Your Portfolio Website] (if applicable)
+💼 Portfolio: https://nick-boysko-portfolio-website.netlify.app/
