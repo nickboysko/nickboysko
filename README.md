@@ -20,10 +20,15 @@ Highlights
 
 📚 Requisition Form: Web application developed to allow employees to request new items they are in need of and establish a chain of approvement
 
-    -Java, Hibernate, SQl, Javascript, JQuery, HTML, Bootstrap, CSS, Git 
+    -Java, Spring boot, Hibernate, SQl, Javascript, JQuery, HTML, Bootstrap, CSS, Git 
 💼 Personal Portfolio Website: Web Application that displays various personal information on myself
 
     -JavaScript, HTML, CSS, and Git
+
+Premier League Fantasy: Backend application that retrieves data like player's name, position, nationality, team, and stats from the database
+
+     -Java, Spring Boot, SQL, VSCode, PGAdmin, and Git
+
 How to Reach Me
 
 📫 Email: boysko.1@buckeyelink.osu.edu
