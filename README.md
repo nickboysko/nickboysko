@@ -1,38 +1,50 @@
-Hi there! 👋 I'm Nick Boysko, a passionate Computer Science student with a love for coding and problem-solving. Here’s a bit about me and what you can find on this GitHub profile.
+👋 Hi, I’m Nick Boysko
 
-About Me
+I’m a Computer Science & Engineering student at The Ohio State University with hands-on experience building and optimizing production web applications using Java, Spring Boot, and PostgreSQL.
 
-🎓 Currently studying: The Ohio State University
+I’ve spent two summers working as a Software Developer Intern, focusing on backend development, API design, database optimization, and performance improvements in enterprise systems.
 
-💼 Field of interest: Software Development
+💻 Technical Focus
 
-💡 Languages & Technologies: Java, C, JavaScript, HTML/CSS, SQL, Git, JQuery, MatLab, Hibernate
+Languages: Java, Python, JavaScript
 
-🛠️ Tools: Visual Studio Code, GitHub, InteliJ
+Frameworks: Spring Boot, Hibernate, REST APIs
 
-🌟 Projects: I enjoy working on diverse projects ranging from web development to algorithm design.
+Databases: PostgreSQL, SQL
 
-What You’ll Find Here
+Cloud & Tools: AWS, Git, CI/CD, IntelliJ
 
-Personal Projects: A collection of my personal coding projects including web apps, scripts, and more.
+Practices: Agile development, unit & integration testing
 
-Highlights
+📌 Featured Projects
+Requisition Form – Full-Stack Web Application
 
-📚 Requisition Form: Web application developed to allow employees to request new items they are in need of and establish a chain of approvement
+A production-style internal tool that allows employees to submit requisition requests and managers to approve or deny them.
 
-    -Java, Spring boot, Hibernate, SQl, Javascript, JQuery, HTML, Bootstrap, CSS, Git 
-💼 Personal Portfolio Website: Web Application that displays various personal information on myself
+Built using Java, Spring Boot, Hibernate, and PostgreSQL
 
-    -JavaScript, HTML, CSS, and Git
+Implemented REST APIs and role-based access control
 
-Premier League Fantasy: Backend application that retrieves data like player's name, position, nationality, team, and stats from the database
+Integrated Google Authentication for secure login and permissions
 
-     -Java, Spring Boot, SQL, VSCode, PGAdmin, and Git
+Designed relational database schema and approval workflows
 
-How to Reach Me
 
-📫 Email: boysko.1@buckeyelink.osu.edu
+Machine Learning Prediction System
 
-🌐 LinkedIn: www.linkedin.com/in/nick-boysko
+A data-driven application focused on automated ingestion and predictive modeling.
 
-💼 Portfolio: https://nick-boysko-portfolio-website.netlify.app/
+Built an automated pipeline ingesting 300+ daily NCAA basketball games via REST APIs
+
+Engineered features and trained a Logistic Regression model achieving 58% accuracy
+
+Evaluated performance using cross-validation and statistical metrics
+
+Tech: Python, Pandas, Scikit-learn
+
+
+📫 Connect With Me
+
+Email: boysko.1@buckeyelink.osu.edu
+
+LinkedIn: https://www.linkedin.com/in/nick-boysko
